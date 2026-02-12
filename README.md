@@ -3,25 +3,25 @@
 **Aspiring Data Analyst** | SQL, Excel, VBA, Power BI, Tableau 
 
 📚 Short summary
-- Currently an Engineer that wants to evolve into Data Analyst.
-- Practical projects: SQL Queries, Dashboards, Excel VBA.
+- Currently an Engineer that wants to fully evolve into Data Analyst.
+- Practical projects: SQL Queries, Dashboards, Excel VBA, KPI Tracking and Automatic Reports.
 - Looking for a position as a Data Analyst.
 
 🔭 Some of my projects
+ - From supplier to production |Scrap Reduction| SQL Project 
+ - From Excel to proper Data Base | Macros, VBA, Jupyterhub | Full Dashbaord creation for KPI tracking
+ - Attendance Data Impact on Production | SQL Project
 
+💡 Skills
+- Languages: SQL, Pandas
+- Tools: Power BI, Tableu, Excel (pivot, VBA, Macros), Git, Jupyterhub
+- Others: Data vizualisation, storytelling
 
-💡 Umiejętności
-- Języki: SQL
-- Narzędzia: Power BI, Tableu Excel (pivot,VBA), Git
-- Inne: Data vizualisation, storytelling
-
-📫 Kontakt
+📫 Contact
 - Email: annalukowska97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anna-%C5%82ukowska-80492a217/
-- CV: 
+- CV: https://drive.google.com/file/d/122sbLicjP7SMLquLVd9l5lAFZQCSlJgv/view?usp=sharing
 
-
-## Hi there 👋
 
 <!--
 **Anna-Lukowska/Anna-Lukowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
