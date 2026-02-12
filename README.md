@@ -3,9 +3,9 @@
 **Aspiring Data Analyst** | SQL, Excel, VBA, Power BI, Tableau 
 
 📚 Short summary
-- Currently and Engineer that wants to evolve into Data Analyst.
-- Practical projects: SQL queries, dashboards.
-- Looking for a position as a Data Analyst / Junior Data Analyst.
+- Currently an Engineer that wants to evolve into Data Analyst.
+- Practical projects: SQL Queries, Dashboards, Excel VBA.
+- Looking for a position as a Data Analyst.
 
 🔭 Some of my projects
 
