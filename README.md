@@ -8,7 +8,7 @@
 - Looking for a position as a Data Analyst.
 
 🔭 Some of my projects
- - From supplier to production |Scrap Reduction| SQL Project 
+ - From supplier to production | Scrap Reduction | SQL Project 
  - From Excel to proper Data Base | Macros, VBA, Jupyterhub | Full Dashbaord creation for KPI tracking
  - Attendance Data Impact on Production | SQL Project
 
